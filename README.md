@@ -26,6 +26,9 @@ sprites is displayed:
 ![alt text](https://github.com/lyxxng/FPGA-Controllable-Sprite/blob/main/Sprites/goomy_left.png "Goomy facing left")
 ![alt text](https://github.com/lyxxng/FPGA-Controllable-Sprite/blob/main/Sprites/goomy_right.png "Goomy facing right")
 
+## Demonstration
+![alt_text](https://github.com/lyxxng/FPGA-Controllable-Sprite/blob/main/vga_demonstration.gif "Video of sprite movement on a VGA monitor")
+
 [^1]: The .mif files were created using the [mifMaker repo](https://github.com/p-bodson/mifMaker).
 [^2]: This repo only contains SystemVerilog code written by myself and my project parter. It does NOT contain the Verilog files created by Quartus Prime Lite according to the Block Design File. Programming
 a DE10-Lite Board with only the files in this repo is not possible.
